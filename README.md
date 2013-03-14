@@ -1,4 +1,7 @@
 salary_converter
 ================
 
-Calculates annual salary equivalent to annual consulting rate, with user configurable assumptions.
+Very simple calculator of annual salary equivalent to annual consulting rate, with user configurable assumptions.
+
+See run-it.rb for an example of how to use it.
+
